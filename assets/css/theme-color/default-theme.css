@@ -42,8 +42,8 @@ Author URI : http://www.markups.io/
 } 
 
 .mu-send-msg-btn {
-	border: 1px solid #ff5a60;
-	background-color: #ff5a60;
+	border: 1px solid #FFF200;
+	background-color: #FFF200;
 }
 
 .mu-header-overlay,
@@ -53,7 +53,7 @@ Author URI : http://www.markups.io/
 .mu-title-dot::after,
 .mu-feature-btn,
 .mu-video-overlay {
-	background-color: #ff5a60;
+	background-color: #FFF200;
 }
 .mu-feature-content-right .media:hover {
 	border-bottom: 1px solid #ff5a60;

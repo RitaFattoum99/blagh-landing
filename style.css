@@ -201,7 +201,6 @@ button:focus {
 	-webkit-transition: all 0.5s;
 	transition: all 0.5s;
 	width: 130px;
-	color: #fff;
 	border-radius: 10px;
 }
 
@@ -239,7 +238,7 @@ button:focus {
 }
 
 .mu-logo {
-	color: #fff;
+	color: #000;
 	font-size: 45px;
 	display: inline-block;
 	font-weight: 700;
@@ -297,7 +296,7 @@ button:focus {
 
 .mu-header-featured-content h1 {
 	font-size: 45px;
-	color: #fff;
+	color: #000;
 	font-weight: 300;
 	margin-bottom: 15px;
 }
@@ -307,7 +306,7 @@ button:focus {
 }
 
 .mu-header-featured-content p{
-	color: #fff;
+	color: #000;
 }
 
 .mu-app-download-area {
@@ -318,7 +317,7 @@ button:focus {
 }
 
 .mu-app-download-area h4 {
-	color: #fff;
+	color: #000;
 	font-size: 18px;
 	font-weight: 300;
 	margin-bottom: 20px;
@@ -327,9 +326,9 @@ button:focus {
 .mu-apple-btn,
 .mu-google-btn,
 .mu-windows-btn {
-	border: 2px solid #fff;
+	border: 2px solid #000;
     border-radius: 50px;
-    color: #fff;
+    color: #000;
     display: inline-block;
     margin: 0 10px;
     padding: 11px 22px;
