@@ -566,6 +566,8 @@ button:focus {
 
 .mu-feature-content-right .media-left {
 	padding-right: 15px;
+	align-items: center; /* Aligns button and text vertically */
+        margin-bottom: 20px; /* Adds spacing between feature items */
 }
 
 .mu-feature-btn {
